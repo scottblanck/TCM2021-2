@@ -1,5 +1,7 @@
 # Adding some poetry here
+
 print('My favorite Haikus...')
+
 print()
 
 print(''' 
