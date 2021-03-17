@@ -8,4 +8,12 @@ Noiselessly.
 - Kobayahsi Issa 
 ''')
 
+print()
 
+print(''' 
+From time to time
+The clouds give rest
+To the moon-beholders.
+
+- Matsuo Bashō
+''')
