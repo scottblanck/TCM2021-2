@@ -1,4 +1,6 @@
 # Adding some poetry here
+print('Poetry Wednesday')
+print()
 
 print(''' 
 The wren
