@@ -1,5 +1,5 @@
 # TCM2021-2
-Second class on Wednesday
+Second class on Wednesday (cloned to laptop)
 
 Getting started with GitHub! 
 

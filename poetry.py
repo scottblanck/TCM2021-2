@@ -1,6 +1,8 @@
 # Adding some poetry here
+# editing from IDLE
 
 print('My favorite Haikus...')
+print('make me relax...')
 
 print()
 
